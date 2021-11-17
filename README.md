@@ -1,1 +1,1 @@
-# UUPS Wallet by OpenDAO
+# UUPS Wallet

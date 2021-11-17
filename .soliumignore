@@ -1,2 +1,5 @@
 node_modules
-contracts/Migrations.sol
+contracts/Proxy.sol
+contracts/Proxiable.sol
+contracts/Address.sol
+contracts/SafeERC20.sol
